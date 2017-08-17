@@ -11,4 +11,4 @@ The latest and full version of the code of conduct is available on the
 [PHP.earth website](https://php.earth/conduct).
 
 The project team maintains confidentiality with regard to the reporter of an
-incident. In case of code of conduct violations, contact us at `conduct AT php.earth`.
+incident. In case of code of conduct violations, contact us at `conduct AT php.earth`
